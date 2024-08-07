@@ -1,0 +1,27 @@
+8.	What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?
+
+
+To determine what percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit, we first identify the numbers that satisfy this condition.
+Numbers with 1 in the unit's digit:
+
+These numbers are: 1, 11, 21, 31, 41, 51, 61.
+Numbers with 9 in the unit's digit:
+
+These numbers are: 9, 19, 29, 39, 49, 59, 69.
+
+Now, count the total number of such numbers:
+7 (numbers with 1)+7 (numbers with 9)=14 numbers7 (numbers with 1)+7 (numbers with 9)=14 numbers
+Total numbers from 1 to 70:
+
+7070
+Calculate the percentage:
+
+Percentage = (14/70)×100
+
+Simplify the fraction:
+14/70 = 1/5
+
+Convert to percentage:
+1/5 × 100 = 20%
+
+Therefore, 20% of the numbers from 1 to 70 have 1 or 9 in the unit's digit.

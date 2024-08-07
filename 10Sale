@@ -1,0 +1,35 @@
+10.	A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months.
+How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?
+
+
+
+To find the required sale for the sixth month so that the grocer achieves an average sale of Rs. 6500 over six months, follow these steps:
+
+  1.Calculate the total sale needed for six months:
+    The average sale is Rs. 6500, so for six months, the total sale needed is:
+    6500×6 = 39000
+
+  2.Sum the sales for the first five months:
+    6435+6927+6855+7230+6562
+
+    Add these values step-by-step:
+    6435+6927 = 13362
+
+    13362+6855 = 20217
+
+    20217+7230 = 27447
+
+    27447+6562 = 34009
+
+
+  3.Calculate the required sale for the sixth month:
+    Let xx be the sale for the sixth month. The total sale including the sixth month should be Rs. 39000:
+
+    34009+x = 39000
+
+    Solving for xx:
+    x = 39000−34009
+
+    x = 4991
+
+Thus, the grocer must have a sale of Rs. 4991 in the sixth month to achieve an average sale of Rs. 6500 over six months.

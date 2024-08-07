@@ -1,0 +1,12 @@
+6.	Look at this series: 36, 34, 30, 28, 24, ... What number should come next?
+
+
+This is an alternating number subtraction series.
+36−34=2
+34−30=4
+30−28=2
+28−24=4
+In this series first, 2 is subtracted from the first digit then 4 is subtracted from the next digit then again 2 is subtracted from next digit then again 4 is subtracted …. And so on.
+So, according to this we have to subtract the digit 24 by 2 to get the correct answer.
+24−2=22
+The number that should come next is 22.
